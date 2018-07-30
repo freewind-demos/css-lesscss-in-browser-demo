@@ -1,8 +1,11 @@
-Css Hello World Demo
-====================
+Render LessCSS in Browser Demo
+==============================
 
-Use css in html pages.
+Render `less` files in browser, without converting it to css.
 
-Open `index.html` in your browser.
+```
+npm install
+npx http-server . -o
+```
 
-![demo](./images/demo.jpg)
+It will open <http://127.0.0.1:8081> in your browser automatically.
